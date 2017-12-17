@@ -1,0 +1,5 @@
+partial modifier_keys
+xkb_symbols "muhe" {
+    key <MUHE>   {      [ Alt_L              ]       };
+    modifier_map  Mod1 { Alt_L, <MUHE> };
+};
